@@ -3,6 +3,16 @@
 ###
 
 <div align="center">
+  <img 
+    height="150"
+    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+    alt="Woman programming"
+  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
